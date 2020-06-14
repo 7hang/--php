@@ -1,0 +1,9 @@
+fopen()
+fiel_get_contents()
+fread
+fgets
+fgetss
+file
+fpassthru
+parse_ini_file
+readfile
