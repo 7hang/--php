@@ -1,0 +1,7 @@
+exec()
+system()
+popen()
+passthru()
+proc_open()
+pcntl_exec()
+shell_exec() 
