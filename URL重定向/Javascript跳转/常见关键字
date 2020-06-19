@@ -1,0 +1,4 @@
+window.location.href 
+self.location 
+top.location 
+window.navigate #只对IE系列浏览器有效
