@@ -1,0 +1,8 @@
+print
+print_r
+echo
+printf
+sprintf
+die
+var_dump
+var_export
